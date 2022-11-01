@@ -1,0 +1,100 @@
+
+{
+    "users":[
+        {
+        "id": "shandroid19",
+        "name": "Shanthanu Nagesh",
+        "posts":[
+            {
+                "id":"1",
+                "media":"https://miro.medium.com/max/4090/1*lRu8OA8Kjc6luPKMQajYmQ.jpeg",
+                "likes":"0",
+                "comments":[
+                    {
+                        "body":"very good",
+                        "replies":[
+                            {"reply":"thanks mahn"},
+                            {"reply":"ur welcs"}
+                        ],
+                        "time":"5000"
+                    },
+                    {
+                        "body":"excellent mahn",
+                        "replies":[],
+                        "time":"6000"
+                    }
+                ]
+        },
+            {
+                "id":"1",
+                "media":"https://miro.medium.com/max/4090/1*lRu8OA8Kjc6luPKMQajYmQ.jpeg",
+                "likes":"0",
+                "comments":[
+                    {
+                        "body":"very good",
+                        "replies":[
+                            {"reply":"thanks mahn"},
+                            {"reply":"ur welcs"}
+                        ],
+                        "time":"5000"
+                    },
+                    {
+                        "body":"excellent mahn",
+                        "replies":[],
+                        "time":"6000"
+                    }
+                ]
+            }
+            ],
+            "bio":"awesome life",
+            "followers":""
+        },
+        {
+            "id": "next_name",
+            "name": "next name",
+            "posts":[
+                {
+                    "id":"1",
+                    "media":"https://miro.medium.com/max/4090/1*lRu8OA8Kjc6luPKMQajYmQ.jpeg",
+                    "likes":"0",
+                    "comments":[
+                        {
+                            "body":"very good",
+                            "replies":[
+                                {"reply":"thanks mahn"},
+                                {"reply":"ur welcs"}
+                            ],
+                            "time":"5000"
+                        },
+                        {
+                            "body":"excellent mahn",
+                            "replies":[],
+                            "time":"6000"
+                        }
+                    ]
+            },
+                {
+                    "id":"1",
+                    "media":"https://miro.medium.com/max/4090/1*lRu8OA8Kjc6luPKMQajYmQ.jpeg",
+                    "likes":"0",
+                    "comments":[
+                        {
+                            "body":"very good",
+                            "replies":[
+                                {"reply":"thanks mahn"},
+                                {"reply":"ur welcs"}
+                            ],
+                            "time":"5000"
+                        },
+                        {
+                            "body":"excellent mahn",
+                            "replies":[],
+                            "time":"6000"
+                        }
+                    ]
+                }
+                ]
+            }
+        ]
+    }
+        
