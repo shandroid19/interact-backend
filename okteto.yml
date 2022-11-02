@@ -1,0 +1,6 @@
+name: backend-deployment
+image: shandroid19/interact-backend:1.0.0
+workdir: /app
+command: ["bash"]
+forward:
+  - 8000:8000

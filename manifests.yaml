@@ -24,6 +24,8 @@ spec:
           value: ${MONGO_URL}
         - name: CLIENT_SECRET
           value: ${CLIENT_SECRET}
+        - name: FRONTEND_URL 
+          value: ${FRONTEND_URL}
 
 ---
 
